@@ -8,11 +8,8 @@ The dashboard provides a 360° view of how efficiently customer inquiries are ha
 Call centers handle thousands of customer interactions daily. Without proper analytics, it becomes challenging to identify:
 
 - When the call volume peaks
-  
 - Which channels customers prefer
-  
 - How quickly agents respond
-  
 - What factors impact customer satisfaction
   
 To solve this, a dynamic Power BI dashboard was created to visualize performance metrics in real time.
@@ -20,11 +17,8 @@ To solve this, a dynamic Power BI dashboard was created to visualize performance
 ## 🎯 Objectives
 
 - Measure overall call activity and duration trends
-- 
-- Evaluate response time to maintain SLA standards
-  
+- Evaluate response time to maintain SLA standards 
 - Analyze call distribution by channel, geography, and sentiment
-   
 - Provide leadership with actionable insights for staffing and training decisions
 
   ## 📊 Dashboard Insights
@@ -34,11 +28,8 @@ The dashboard consists of two main views:
 A summary page highlighting the most important metrics:  
 
 - **Total Calls:** 33K
-  
 - **Total Duration:** 13.7K hrs (824K mins)
-  
 - **Average Call Duration:** 25 mins
-  
 - **Response Time:** 75.26%  
 
 ### **2️⃣ Grid View**
@@ -49,7 +40,6 @@ An interactive data table allowing users to:
 
 ## 🧠 Key Learnings & Implementation
 Throughout the project, several Power BI capabilities and analytical concepts were applied:
-
 - **Data Source:** SQL Server  
 - **Data Preparation:** Power Query (data cleaning & transformation)  
 - **Modeling:** Relationships, calculated columns, and measures using DAX  
@@ -74,9 +64,6 @@ By translating raw data into visual intelligence, the dashboard supports faster,
 
 ## 👩‍💻 Author
 **Rashmi Sharma**  
-📧 [rashmisharma@gmail.com](mailto:rashmisharma@gmail.com)  
-🔗 [LinkedIn](## 👩‍💻 Author
-**Rashmi Sharma**  
-📧 [Mail ID](rashusharma007@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/rashmisharma))
+📧 [Mail ID](rashusharma007@gmail.com)
+🔗 [LinkedIn](www.linkedin.com/in/rashmi-sharma-11nv91)
 
