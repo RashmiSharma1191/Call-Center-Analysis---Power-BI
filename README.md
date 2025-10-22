@@ -19,7 +19,7 @@ To solve this, a dynamic Power BI dashboard was created to visualize performance
 - Analyze call distribution by channel, geography, and sentiment
 - Provide leadership with actionable insights for staffing and training decisions
 
-  ## 📊 Dashboard Insights
+## 📊 Dashboard Insights
 The dashboard consists of two main views:  
 
 ### **1️⃣ Home View**
