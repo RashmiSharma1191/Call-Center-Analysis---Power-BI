@@ -6,7 +6,6 @@ The dashboard provides a 360° view of how efficiently customer inquiries are ha
 
 ## 💡 Problem Statement
 Call centers handle thousands of customer interactions daily. Without proper analytics, it becomes challenging to identify:
-
 - When the call volume peaks
 - Which channels customers prefer
 - How quickly agents respond
@@ -15,7 +14,6 @@ Call centers handle thousands of customer interactions daily. Without proper ana
 To solve this, a dynamic Power BI dashboard was created to visualize performance metrics in real time.
 
 ## 🎯 Objectives
-
 - Measure overall call activity and duration trends
 - Evaluate response time to maintain SLA standards 
 - Analyze call distribution by channel, geography, and sentiment
@@ -26,7 +24,6 @@ The dashboard consists of two main views:
 
 ### **1️⃣ Home View**
 A summary page highlighting the most important metrics:  
-
 - **Total Calls:** 33K
 - **Total Duration:** 13.7K hrs (824K mins)
 - **Average Call Duration:** 25 mins
@@ -65,5 +62,6 @@ By translating raw data into visual intelligence, the dashboard supports faster,
 ## 👩‍💻 Author
 **Rashmi Sharma**  
 📧 [Mail ID](rashusharma007@gmail.com)
+
 🔗 [LinkedIn](www.linkedin.com/in/rashmi-sharma-11nv91)
 
